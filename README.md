@@ -1,6 +1,6 @@
 # 🚀 GSAP First Project
-
-Este projeto é uma aplicação web desenvolvida para praticar animações utilizando o GSAP (GreenSock Animation Platform), uma poderosa biblioteca JavaScript para criação de animações modernas e performáticas.
+Este projeto é uma aplicação web desenvolvida com o objetivo de praticar animações utilizando o GSAP (GreenSock Animation Platform), uma poderosa biblioteca JavaScript para criação de animações modernas e performáticas.
+O desenvolvimento contou com o suporte de inteligência artificial como ferramenta de aprendizado, auxiliando na compreensão e aplicação dos conceitos do GSAP
 
 ## 📌 Sobre o Projeto
 
