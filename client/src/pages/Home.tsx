@@ -1,4 +1,5 @@
 import HeroSection from '@/components/HeroSection';
+import FloatingCans from '@/components/FloatingCans';
 import BenefitsSection from '@/components/BenefitsSection';
 import FlavorsSection from '@/components/FlavorsSection';
 import TestimonialsSection from '@/components/TestimonialsSection';
@@ -24,6 +25,9 @@ export default function Home() {
     <div className="w-full min-h-screen bg-white">
       {/* Seção Hero */}
       <HeroSection />
+
+      {/* Seção de Latas Voando */}
+      <FloatingCans />
 
       {/* Seção de Benefícios */}
       <BenefitsSection />
